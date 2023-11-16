@@ -6,7 +6,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
-    <title>Plot Listing HTML5 Website Template</title>
+    <title>Plot Listing</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../library/bootstrap/css/bootstrap.min.css" rel="stylesheet">
