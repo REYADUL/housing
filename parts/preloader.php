@@ -8,3 +8,4 @@
       </div>
     </div>
   </div>
+  <? echo 'hello from loader';?>
