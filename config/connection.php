@@ -1,6 +1,6 @@
 <?php
     include('credentials.php');
-    include(__DIR__ . '/credentials.php');
+    
 
     $conn = new mysqli($servername, $username, $password, $dbname);
 
